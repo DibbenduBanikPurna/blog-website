@@ -1,0 +1,19 @@
+.form{
+    text-align: left;
+}
+.icon{
+    
+    font-size: 25px;
+}
+.form input{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.line{
+    text-align: left;
+}
+.i{
+    height: 200px;
+    
+    margin-left: 10px;
+}

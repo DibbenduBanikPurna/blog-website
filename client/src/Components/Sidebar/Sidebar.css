@@ -1,0 +1,30 @@
+.sidebarTitle {
+     margin: 25px;
+     padding: 10px; 
+    /* width: 50%;  */
+    border-top: solid 1px #a7a4a4;
+    border-bottom: solid 1px #a7a4a4;
+    text-align: center;
+    font-family: "Varela Round", sans-serif;
+   
+    line-height: 18px;
+    color: #222222;
+    font-weight: 600;
+  }
+  .text{
+    text-align: left;
+    margin-left: 30px;
+    justify-content: left;
+    color:black;
+    text-align: justify;
+    
+  }
+  .list ul li{
+    text-decoration: none;
+    list-style: none;
+    font-size: large;
+    justify-content: left;
+  }
+  .list{
+    margin: 60px;
+  }
